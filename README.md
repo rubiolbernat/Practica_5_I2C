@@ -1,7 +1,7 @@
 # Practica 5 - I2C
  **Alumne: Bernat Rubiol**
 
- Aquesta pràctica està dividida en dos carpetes
+ Aquesta pràctica està dividida en 3 carpetes
 
 **Links a les pràctiques**
 
